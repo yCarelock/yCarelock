@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1>Hi, I'm Yannis! 
 
-<!--
-**yCarelock/yCarelock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cyber security projects:</h2>
+[Manage Microsoft Entra smart lockout values Lab]
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Enable sign in and user risk policies]
+
+<h2> Certification</h2>
+<h2> Security+  https://www.credly.com/badges/24d5f80b-4ee7-44d3-b069-37e56e10bf72/linked_in?t=srdfqy
+
+
+
