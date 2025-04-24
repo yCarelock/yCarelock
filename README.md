@@ -10,7 +10,7 @@
 
 - Create & Test a Dynamic Group (https://github.com/yCarelock/Create-Test-a-Dynamic-Group/tree/main)
 
--Setting Up a Windows Sandbox for Malware Analysis (https://github.com/yCarelock/Setting-Up-a-Windows-Sandbox-for-Malware-Analysis)
+- Setting Up a Windows Sandbox for Malware Analysis (https://github.com/yCarelock/Setting-Up-a-Windows-Sandbox-for-Malware-Analysis)
 
 - Guest Access Review Clean-up (https://github.com/yCarelock/Guest-Access-Review-Clean-up)
 <h2> Certification</h2>
