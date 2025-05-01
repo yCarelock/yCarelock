@@ -12,6 +12,7 @@
 
 - Setting Up a Windows Sandbox for Malware Analysis (https://github.com/yCarelock/Setting-Up-a-Windows-Sandbox-for-Malware-Analysis)
 
+- PowerShell Obfuscation & Detection (https://github.com/yCarelock/PowerShell-obfuscation-testing-/blob/main/README.md)
 - Guest Access Review Clean-up (https://github.com/yCarelock/Guest-Access-Review-Clean-up)
 <h2> Certification</h2>
 <h2> Security+  https://www.credly.com/badges/24d5f80b-4ee7-44d3-b069-37e56e10bf72/linked_in?t=srdfqy
