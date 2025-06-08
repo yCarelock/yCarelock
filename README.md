@@ -18,6 +18,9 @@
   
 - Active Directory IAM Lab Group Based Access Control with Shared Folders (https://github.com/yCarelock/Active-Directory-IAM-Lab-Group-Based-Access-Control-with-Shared-Folders)
 
+- Azure Firewall with forced tunneling (https://github.com/yCarelock/Azure-Firewall-with-forced-tunneling/blob/main/README.md)
+
+- T-Pot honeypot in Microsoft Azure (https://github.com/yCarelock/T-Pot-Honeypot-on-Azure-24.04.1-)
 <h2> Certification</h2>
 <h2> Security+  https://www.credly.com/badges/24d5f80b-4ee7-44d3-b069-37e56e10bf72/linked_in?t=srdfqy
 
