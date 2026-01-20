@@ -1,4 +1,4 @@
-![microsoft-certified-associate-badge](https://github.com/user-attachments/assets/666e7cbc-4534-478a-b5c3-67c83ec9121e)<h1>Hi, I'm Yannis! 
+<h1>Hi, I'm Yannis! 
 
 <h2>👨‍💻 Cyber security projects:</h2>
 
